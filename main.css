@@ -1,0 +1,79 @@
+/* Styles for VAST tutorial
+---------------------------------*/
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  padding-top: 30px;
+}
+
+a img { 
+  border: 0px solid transparent;
+}
+
+a { 
+  color: inherit;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #aaaaaa;
+}
+
+h1 {
+  width: 100%; letter-spacing: -0.03;
+  margin-bottom: 1em; font-size: 1.8em;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 1em;
+}
+
+canvas { 
+  display: block; 
+  outline: 0px; 
+  margin-bottom: 1.5em; 
+}
+
+.content { 
+  margin: 0 auto 10vh auto; 
+  padding: 0 25px;
+  width: 625px; 
+  min-width: 300px; 
+  overflow: hidden;
+}
+
+#notice {
+  font-size: 1em;
+  font-style: italic;
+  width: 100%;
+  margin: 20px 0;
+}
+
+#ritaadjectives {
+  border: 1px solid #000000;
+}
+
+.container {
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+.container img {
+  width: 60%;
+  float: right;
+  padding-bottom: 60px;
+}
+
+.container p {
+  width: 35%;
+  margin: 0 0 15px 0;
+  line-height: 1.4;
+  float: left;
+}
+
+.cont-box {
+  display: block;
+  margin-bottom: 20px;
+
+}
